@@ -1,0 +1,85 @@
+#title{
+    background: burlywood;
+    color: chocolate;
+}
+
+#nomini{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#winner{
+    margin-top: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#container {
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(210, 105, 30, 0.8);
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#container1 {
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(210, 105, 30, 0.8);
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#container2 {
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(210, 105, 30, 0.8);
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#container3 {
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(210, 105, 30, 0.8);
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#container4 {
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(210, 105, 30, 0.8);
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#winnercontainer {
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(210, 105, 30, 0.8);
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
